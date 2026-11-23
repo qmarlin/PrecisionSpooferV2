@@ -1,0 +1,13 @@
+﻿  intel_driver.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  kdmapper.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  service.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  PrecisionSpooferV2.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1056 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PrecisionSpooferV2.vcxproj -> C:\Users\528\Downloads\PrecisionSpoofer-CPP-main\x64\Release\PrecisionSpooferV2.exe
