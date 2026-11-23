@@ -1,2 +1,12 @@
 # PrecisionSpooferV2
-I'll post this publicly here because i have no use for it anymore. It's a HWID spoofer that come's with a driver, i'm unsure if it even works but every function is here and intact. 
+Hello! 
+
+Today i'm publishing this random spoofer, it has a driver, both for AMD and Intel, it spoofs HWID and alot of other identifiers, and i'm pretty sure it comes with a cleaner.
+
+It's probably not up to date and wont get you unbanned magically from EAC/BE but you can always try! 
+
+
+
+https://guns.lol/qmarlin
+
+More soon!
